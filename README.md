@@ -22,4 +22,4 @@ Supported syntax includes **bold**, *italics*, `monospaced`, as well as
 ---  
 and lines.
 
-Any unsupported HTML code or syntax will be sanitized with HTML escape characters such as `&lt;`no additional, unsupported HTML will be created.
+Any unsupported HTML code or syntax will be sanitized with HTML escape characters such as `&lt;` so that no additional, unsupported HTML will be created.
